@@ -1,6 +1,6 @@
 # Guide
 
-Reproduct a problem of vue-loader when export a `.vue` file in on declare.
+Reproduct a problem of vue-loader when export a `.vue` file on declare.
 
 ## Reproduction
 
