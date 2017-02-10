@@ -1,5 +1,7 @@
 # Guide
 
+Reproduct a problem of vue-loader when export a `.vue` file in on declare.
+
 ## Reproduction
 
 Run these command and then visit [http://localhost:8080](http://localhost:8080).
