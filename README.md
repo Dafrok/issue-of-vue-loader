@@ -18,7 +18,7 @@ npm start
 ```html
 <h2>GoodCase(Correctly mounted):</h2>
 <div>A good case has been mounted here.</div>
-<h2>## BadCase(can't be mounted and cause a warning):</h2>
+<h2>BadCase(can't be mounted and cause a warning):</h2>
 <div>It's a bad case which will not be mounted.</div>
 ```
 
