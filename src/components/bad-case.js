@@ -1,1 +1,1 @@
-export default './BadCase.vue'
+export default from './BadCase.vue'
